@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- I am a senior studying Computer Science here at the University of Rhode Island
+- I play Club Rugby for the school and participate in intramurals
+- I like to spend my free time woring out and hanging out with friends
+
 <!--
 **cammcgurer/cammcgurer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
